@@ -8,6 +8,12 @@
     },
     {
       "path": "./ui-libs/components"
+    },
+    {
+      "path": "./api/api"
+    },
+    {
+      "path": "./services/auth-service"
     }
   ]
 }
